@@ -1,9 +1,12 @@
 
 # Network Security Fundamentals
 
-Author: Daniel Okobia, Cyber Security Intern
-Team:  Network Security Team
-Company: Redynox
+Author: Daniel Okobia, Cyber Security Intern  
+
+Team:  Network Security Team  
+
+Company: Redynox  
+
 Date: 26th August, 2025
 
 ## 1. Project Overview
